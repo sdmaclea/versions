@@ -1,0 +1,12 @@
+runtime.linux-arm64.Microsoft.NETCore.ILAsm 3.0.0-preview4-27414-79
+runtime.linux-arm64.Microsoft.NETCore.ILDAsm 3.0.0-preview4-27414-79
+runtime.linux-arm64.Microsoft.NETCore.Jit 3.0.0-preview4-27414-79
+runtime.linux-arm64.Microsoft.NETCore.Native 3.0.0-preview4-27414-79
+runtime.linux-arm64.Microsoft.NETCore.Runtime.CoreCLR 3.0.0-preview4-27414-79
+runtime.linux-arm64.Microsoft.NETCore.TestHost 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.ILAsm 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.ILDAsm 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.Jit 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.Native 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.Runtime.CoreCLR 3.0.0-preview4-27414-79
+transport.runtime.linux-arm64.Microsoft.NETCore.TestHost 3.0.0-preview4-27414-79
